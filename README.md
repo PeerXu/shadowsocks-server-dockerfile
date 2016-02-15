@@ -1,4 +1,4 @@
-# shadowsocks-server
+# shadowsocks-server-dockerfile
 Running shadowsocks server on docker
 
 Environment Variables:
